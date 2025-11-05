@@ -12,7 +12,7 @@
     "@sveltejs/kit": "^1.0.1",
     "@urql/exchange-graphcache": "^5.0.8",
     "graphql": "^16.6.0",
-    "svelte": "^3.55.0",
+    "svelte": "^4.2.19",
     "urql": "^3.0.3",
     "vite": "^4.0.3"
   },
